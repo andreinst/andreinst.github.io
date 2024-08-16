@@ -54,7 +54,7 @@ body {
 
 .hero-image {
     padding-top: 100px;
-    background-image: url("./resources/herogif.gif");
+    background-image: URL("./resources/herogif.gif");
     background-size: cover;
     background-position: center; /* Ensure the image is centered */
     height: 60vh; /* Ensure the section takes full viewport height */
